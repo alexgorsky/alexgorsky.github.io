@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Disallow: /handlers
+Disallow: /img
+Disallow: /css
+Disallow: /js
