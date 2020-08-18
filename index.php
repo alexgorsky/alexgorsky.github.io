@@ -85,7 +85,7 @@ if(isset($_GET['cm_title'])){
                     </div>
                     <p class="header_desc">Способ получения пассивного<br> дохода</p>
                     <div class="header_right">
-                        <a class="header_phone" href="mailto:info@enigma.icu">info@enigma.icu</a><br>
+                        <a class="header_phone" href="mailto:info@alexgorsky.github.io">info@alexgorsky.github.io</a><br>
                         <a href="#banner_form" class="header_cabinet fancybox-popup">Войти в личный кабинет</a>
                     </div>
                 </div>
@@ -520,7 +520,7 @@ if(isset($_GET['cm_title'])){
                     </div>
                     <p class="footer_desc">Программа автоматического заработка<br> на рынке Форекс</p>
                     <div class="footer_right">
-                        <a class="footer_phone" href="mailto:info@tradesignalfx.com">info@tradesignalfx.com</a><br>
+                        <a class="footer_phone" href="mailto:info@alexgorsky.github.io">info@alexgorsky.github.io</a><br>
                         <a class="footer_privacy fancybox-popup" href="#privacy">Политика конфиденциальности</a><br>
                         <a class="footer_privacy fancybox-popup" href="#terms">Правила и условия сервиса</a>
                         
